@@ -6,7 +6,7 @@ WiFi-Agent
 
 Smart-Client
 
-Reference:
+Reference paper:
 
 Enabling Energy-Aware Collaborative Mobile Data Offloading for Smartphones
 
